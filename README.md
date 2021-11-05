@@ -8,6 +8,8 @@ This is the ***complete summary*** of the certificate program which I am used to
 
 I have made this book by doing some pretty highlighting and tried to write in clear way, but actually while writing, it wasn't in my mind that I am making this for everyone so the language **might be harsh** somewhere.
 
+In the last folder, you will find the files of the **`final project`** from this certificate program. I have put a lot of work to make it. Even there is a presentation - please check it out!
+
 ### 📖 How to Read?
 I have *split the folders* in neat way and *course-wise*. All folders are having the *week-wise* book pages in the `.pdf` format. I recommend you to **download them** and then read. Which might cost you `~150 MB` of data. The pages are captured in the chronological order so you will feel it like a story being told about data analysis!
 
